@@ -27,7 +27,7 @@ Quick install, use where you download (Windows)
 wget https://raw.githubusercontent.com/AssassinUKG/SimpleServ/main/simpserv -o simpserv
 ```
 
-###Usage
+### Usage
 ```
 python.exe .\simpserv
 or
