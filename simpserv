@@ -80,7 +80,8 @@ def ShowMenu(CheckedIP):
             print(RD+ "Invalid Choice, Try again!" + RS)
 
 def getdirpath():
-    return os.path.dirname(os.path.realpath(__file__))
+    return os.getcwd()
+    #return os.path.dirname(os.path.realpath(__file__))
 
 def runserv(port, dir):
   
@@ -117,7 +118,7 @@ def IPChoice():
 
 def RunServer(ip,dir):
     Banner()
-    if dir is None or dir is '':
+    if dir is '':
         dir = getdirpath()
     files = os.listdir(dir)
     portSel = input(SB+WT+"Enter port (Press Enter for default: 8080): "+RS)
