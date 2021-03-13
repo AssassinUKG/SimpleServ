@@ -20,7 +20,7 @@ Quick install, use anywhere
 sudo wget "https://raw.githubusercontent.com/AssassinUKG/SimpleServ/main/simpserv" -O simpserv && sudo mv simpserv /usr/local/bin/simpserv &&  sudo chmod +x /usr/local/bin/simpserv
 ```
 ### Usage
-Open a new termainl and type
+Open a new terminal and type
 ```
 simpserv
 or
