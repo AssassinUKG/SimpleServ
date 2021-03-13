@@ -1,4 +1,4 @@
-# SimpleServ
+# SimpServ
 
 Serving files for linunx and windows.
 
