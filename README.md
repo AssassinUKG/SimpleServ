@@ -1,5 +1,10 @@
 # SimpleServ
-Serve files for linunx and windows. 
+
+Serving files for linunx and windows.
+
+## Screenshots
+
+[](/simserv.png) 
 
 Tip: 
 Set a dir like "/opt/tools" for common scripts. 
@@ -33,11 +38,3 @@ python.exe .\simpserv
 or
 python.exe .\simpserv -d "C:\\Users\\Usernam\\Desktop"
 ```
-
-
-## Screenshots
-
-
-
-
-
