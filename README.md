@@ -14,7 +14,8 @@ alias pss="cd /opt/tools && sudo simpserv"
 ```
 
 ## Install & Usage
-Quick install, use anywhere (Linux)
+### Linux
+Quick install, use anywhere
 ```
 sudo wget "https://raw.githubusercontent.com/AssassinUKG/SimpleServ/main/simpserv" -O simpserv && sudo mv simpserv /usr/local/bin/simpserv &&  sudo chmod +x /usr/local/bin/simpserv
 ```
@@ -25,8 +26,7 @@ simpserv
 or
 simpserv -d /tmp/somepath
 ```
-
-
+### Windows
 Quick install, use where you download (Windows)
 ```
 wget https://raw.githubusercontent.com/AssassinUKG/SimpleServ/main/simpserv -o simpserv
