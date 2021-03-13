@@ -4,7 +4,7 @@ Serving files for linunx and windows.
 
 ## Screenshots
 
-[](/simpleserv/simserv1.png)
+[](/SimpleServ/simserv1.png)
 
 Tip: 
 Set a dir like "/opt/tools" for common scripts. 
