@@ -2,6 +2,7 @@
 
 Serving files for linunx and windows.
 
+
 ## Screenshots
 
 ![](/assets/simserv1.png)
@@ -12,6 +13,7 @@ Set an alias to "cd /opt/tools && sudo simpserv"
 ```
 alias pss="cd /opt/tools && sudo simpserv"
 ```
+
 
 ## Install & Usage
 ### Linux
@@ -26,6 +28,8 @@ simpserv
 or
 simpserv -d /tmp/somepath
 ```
+
+
 ### Windows
 Quick install, use where you download (Windows)
 ```
