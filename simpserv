@@ -124,7 +124,7 @@ def RunServer(ip,dir):
     portSel = input(SB+WT+"Enter port (Press Enter for default: 8080): "+RS)
     method = ""
     while True:
-        wgetOrCurl = input(SB+WT+"Method: Wget / Curl (press Enter Default (wget) or 'c' for curl: "+RS)
+        wgetOrCurl = input(SB+WT+"Method: Wget / Curl, press Enter Default (wget) or 'c' for curl: "+RS)
         if wgetOrCurl == "c":
             method = "curl"
             break
