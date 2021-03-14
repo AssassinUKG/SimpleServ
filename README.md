@@ -2,6 +2,10 @@
 
 Serving files for linunx and windows.
 
+## Function 
+Serve files using python file server.
+List links for easy copy-paste to save time.
+
 
 ## Screenshots
 
