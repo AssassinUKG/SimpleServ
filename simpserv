@@ -137,6 +137,7 @@ def RunServer(ip,dir):
 
     if not portSel: portSel = 8080
     print(SB+CY+ "\nCopy Links...\n" + RS)
+    files.sort()
     for file in files:        
         if not file.startswith(".") and not os.path.isdir(file):
             if method == "wget":
